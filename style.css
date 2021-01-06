@@ -50,19 +50,23 @@ margin:0px 0px -12px 0px;
     padding-left:0px;
 }
 .navbar{
-    margin:15px 30px 15px 170px;
+    margin:20px 30px 15px 200px;
+    padding-right:10px;
+
 }
 .introductionimage .menu-bars{
     float:left;
     width:21%;
     height:100%;
     list-style-type:none;
-    padding:5px 5px 5px 5px;
+    padding:5px 6px 5px 5px;
 }
 
 #profile1id{
     padding-top:40px;
+    padding-left:60px;
 }
+
 /* second section working details */
 .aboutcv{
     padding-bottom:15px;
@@ -191,6 +195,7 @@ margin:0px 0px -12px 0px;
     border-radius:5%;
     margin-top:50px; 
     background-color:ghostwhite;
+    box-shadow:5px 5px 20px gray;
 
 }
 .fourthonewidth h3{
